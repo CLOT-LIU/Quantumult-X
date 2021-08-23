@@ -1,0 +1,1 @@
+vmess=cm-hk.stunnel.vip:443, method=aes-128-gcm, password=0aa4b81079b9a6c3ab9cfdc3f7c8a63f, obfs-host=cm-hk.stunnel.vip, obfs=wss, obfs-uri=/ws, tls-verification=true, fast-open=false, udp-relay=false, tag=HKBGP-PRO
