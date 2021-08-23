@@ -10,5 +10,3 @@ shadowsocks=tw.gotochinatown.net:10881, method=none, password=0aa4b81079b9a6c3ab
 shadowsocks=in.gotochinatown.net:10884, method=none, password=0aa4b81079b9a6c3ab9cfdc3f7c8a63f, fast-open=false, udp-relay=false, tag=孟买
 shadowsocks=jpl.gotochinatown.net:10888, method=none, password=0aa4b81079b9a6c3ab9cfdc3f7c8a63f, fast-open=false, udp-relay=false, tag=日本原生
 shadowsocks=de.gusa.xyz:443, method=none, password=0aa4b81079b9a6c3ab9cfdc3f7c8a63f, fast-open=false, udp-relay=false, tag=纽伦堡
-shadowsocks=cm.stunnel.vip:4700, method=none, password=0aa4b81079b9a6c3ab9cfdc3f7c8a63f, fast-open=false, udp-relay=false, tag=香港HKBN
-shadowsocks=cm.stunnel.vip:4700, method=none, password=0aa4b81079b9a6c3ab9cfdc3f7c8a63f, fast-open=false, udp-relay=false, tag=香港HKT-2
